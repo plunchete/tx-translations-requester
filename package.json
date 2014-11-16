@@ -1,0 +1,19 @@
+{
+  "name": "transifex-translations-requester",
+  "version": "0.1.0",
+  "description": "",
+  "main": "tx-phantom-nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "npm i -g phantomjs"
+  },
+  "dependencies": {
+    "phantom": "^0.7.0",
+    "colors": "^1.0.3",
+    "string": "^2.2.0"
+  }
+}

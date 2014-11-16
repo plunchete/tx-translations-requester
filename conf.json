@@ -1,0 +1,49 @@
+{
+    "languagesToTranslate" : [
+        "french",
+        "german",
+        "spanish"
+    ],
+
+    "translationVendor" : "gengo",
+    "proQuality" : true,
+
+    "languages" : {
+        "arabic" : "ar",
+        "bulgarian" : "bg",
+        "chinese" : "zh",
+        "chineseTaiwan" : "zh_TW",
+        "czech" : "cs",
+        "danish" : "da",
+        "dutch" : "nl",
+        "englishUnitedKindom" : "en_GB",
+        "finnish" : "fi",
+        "french" : "fr",
+        "frenchCanada" : "fr_CA",
+        "german" : "de",
+        "greek" : "el",
+        "hebrew" : "he",
+        "hungarian" : "hu",
+        "indonesian" : "id",
+        "italian" : "it",
+        "japanese" : "ja",
+        "korean" : "ko",
+        "malay" : "ms",
+        "norwegian" : "no",
+        "polish" : "pl",
+        "portuguese" : "pt",
+        "portugueseBrazil" : "pt_BR",
+        "romanian" : "ro",
+        "russian" : "ru",
+        "serbian" : "sr",
+        "slovak" : "sk",
+        "spanish" : "es",
+        "spanishMexico" : "es_MX",
+        "swedish" : "sv",
+        "tagalog" : "tl",
+        "thai" : "th",
+        "turkish" : "tr",
+        "ukrainian" : "uk",
+        "vietnamese" : "vi"
+    }
+}
